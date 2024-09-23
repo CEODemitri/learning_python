@@ -10,3 +10,6 @@ Working my way through the course to master Python. I Have bought this course at
 
 7 - 24 : Errors.15/20
 What is the hold Up? Two months and only 15 videos completed? Step it up.
+
+9 22 : Error Section 5 Complete
+Wow.
