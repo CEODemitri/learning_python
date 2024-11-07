@@ -1,0 +1,16 @@
+{
+    "friends": [
+        {
+            "name": "Mesha",
+            "degree": "Mermaid"
+        },
+        {
+            "name": "Raven",
+            "degree": "Blessed"
+        },
+        {
+            "name": "Angelica",
+            "degree": "Gynamstics"
+        }
+    ]
+}
