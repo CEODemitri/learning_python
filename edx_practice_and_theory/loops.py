@@ -2,13 +2,16 @@
 # best for iteration through colelctions
 colors = ["red", "yellow", "green"]
 for color in colors:
+    print(f"I need a tube of {color}.")
+
+'''
+WHAT IS WRONG? WHY A TYPE ERROR 
+for color in colors:
     print("I need a tube of " + color + ".")
 
-# WHAT IS WRONG? WHY A TYPE ERROR 
-# for color in colors:
-#     new_color = str(color)
-#     print("I need a tube of " + new_color + ".")
-
+0. my guess: cant add three strings?
+Answer: This code does work. Written months ago, did i fix the error already?
+'''
 
 # USE-CASE :: COUNTER
 for number in range(1, 11, 1):
